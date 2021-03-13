@@ -48,8 +48,8 @@ LinkedIn: https://www.linkedin.com/in/divyanshkm/
 Resume: [divyanshresume.pdf](https://github.com/jahnviseth/codeabode/files/6135493/divyanshresume.pdf)
 
 Member4: VIRTI MEHTA
-GitHub:
-LinkedIn:
+GitHub:http://github.com/m-virti
+LinkedIn:https://www.linkedin.com/in/virti-mehta-325716202
 Resume:
 
 INSTRUCTIONS:-
