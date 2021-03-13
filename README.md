@@ -1,4 +1,3 @@
-[Jahnvi's Resume (1).pdf](https://github.com/jahnviseth/codeabode/files/6135562/Jahnvi.s.Resume.1.pdf)
 # codeabode
 PROJECT DEFINITION:-
 We are making an Automatic Attendance System via Facial Recognition (AASFR). Our main goal is to make a system where students' attendance is automatically taken by recognizing their faces. It will also help teachers and students to keep track of their attendance as well.
